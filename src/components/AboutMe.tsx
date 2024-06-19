@@ -13,7 +13,7 @@ const AboutMe = () => {
                     <Image
                         alt="Fotografía de Roberto Cruz"
                         src={'/me.png'} width={2000} height={2000}
-                        className="w-full mx-auto max-w-44 aspect-square object-cover rotate-3 border border-2 border-black p-1 rounded-md"
+                        className="w-full mx-auto max-w-44 aspect-square object-cover rotate-3 -z-0 border-2 border-black p-1 rounded-md"
                     />
                 </div>
                 <div className="px-4 flex flex-col gap-2 text-lg md:text-xl font-medium ">

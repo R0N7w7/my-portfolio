@@ -6,7 +6,7 @@ const Experience = () => {
                 <h2 className="text-3xl font-bold text-white px-2 text-center">Experiencia <span className="text-orange-600">profesional</span></h2>
             </div>
 
-            <div className="grid grid-cols-1 gap-8 lg:grid-cols-2 mt-4 mb-4">
+            <div className="grid grid-cols-1 gap-8  mt-4 mb-4">
                 <article className="px-3 bg-gray-800 text-white py-4 mx-2 rounded-md max-w-xl">
                     <h3 className="text-2xl font-medium">Desarrollador Web Fullstack</h3>
                     <p className="text-lg font-normal mt-2">Self Employed, Autonómo</p>
